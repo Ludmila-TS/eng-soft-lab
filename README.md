@@ -1,4 +1,4 @@
-# 🧪 eng-soft-lab 
+# 🧪 Eng-soft-lab 
 
 Repositório de estudos e projetos desenvolvidos ao longo da graduação em **Engenharia de Software (EAD – UNINTER)**.  
 Organizado por disciplinas e áreas do conhecimento, este repositório documenta minha jornada prática e acadêmica ao longo do curso.
