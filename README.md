@@ -28,17 +28,17 @@ Organizado por blocos temáticos de conhecimento:
 Cada pasta conterá códigos, anotações, documentos e entregas relacionadas à disciplina correspondente.
 
 
-eng-soft-lab/
-├── 01-fundamentos/
-├── 02-algoritmos-programacao/
-├── 03-banco-de-dados/
-├── 04-engenharia-software/
-├── 05-desenvolvimento-qualidade/
-├── 06-web-mobile/
-├── 07-integracao-seguranca/
-├── 08-gestao-etica/
-├── 09-projetos-interdisciplinares/
-└── README.md
+**eng-soft-lab/**
+**01**-fundamentos/
+**02**-algoritmos-programacao/
+**03**-banco-de-dados/
+**04**-engenharia-software/
+**05**-desenvolvimento-qualidade/
+**06**-web-mobile/
+**07**-integracao-seguranca/
+**08**-gestao-etica/
+**09**-projetos-interdisciplinares/
+**README.md**
 
 
 ---
