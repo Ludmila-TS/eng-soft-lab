@@ -27,7 +27,7 @@ Organizado por blocos temáticos de conhecimento:
 
 Cada pasta conterá códigos, anotações, documentos e entregas relacionadas à disciplina correspondente.
 
-```text
+
 eng-soft-lab/
 ├── 01-fundamentos/
 ├── 02-algoritmos-programacao/
