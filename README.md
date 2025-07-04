@@ -43,33 +43,43 @@ eng-soft-lab/
 
 ---
 
-🎯 Objetivo do repositório
-Consolidar o aprendizado teórico e prático da graduação
+## 🎯 Objetivo do repositório
 
-Organizar projetos e códigos por disciplina
+- Consolidar o aprendizado teórico e prático da graduação:
 
-Construir um portfólio público para estudo, consulta e futuras oportunidades
+- Organizar projetos e códigos por disciplina
 
-Demonstrar habilidades em automação, dados, low-code, desenvolvimento e gestão
+- Construir um portfólio público para estudo, consulta e futuras oportunidades
 
-💻 Tecnologias e ferramentas abordadas
-Linguagens: Java, Python, HTML, CSS, JavaScript
+- Demonstrar habilidades em automação, dados, low-code, desenvolvimento e gestão
 
-Banco de Dados: MySQL, PostgreSQL
+---
 
-Modelagem: UML, Engenharia de Requisitos
 
-Automação: Power Automate, AppSheet
+## 💻 Tecnologias e ferramentas abordadas
 
-Testes e Qualidade: TDD, DevOps, QA
+- Linguagens: Java, Python, HTML, CSS, JavaScript
 
-Visualização de Dados: Excel, Tableau, Google Sheets
+- Banco de Dados: MySQL, PostgreSQL
 
-Metodologias: Ágil (Scrum, Kanban), PMBOK
+- Modelagem: UML, Engenharia de Requisitos
 
-👩🏻‍💻 Sobre mim
-Desenvolvido por Ludmila Tobias
-🔗 GitHub: @Ludmila-TS
+- Automação: Power Automate, AppSheet
+
+- Testes e Qualidade: TDD, DevOps, QA
+
+- Visualização de Dados: Excel, Tableau, Google Sheets
+
+- Metodologias: Ágil (Scrum, Kanban), PMBOK
+
+---
+
+## 👩🏻‍💻 Sobre mim
+
+Desenvolvido por **Ludmila Tobias**
+🔗 GitHub: [@Ludmila-TS](https://github.com/Ludmila-TS)  
 📧 Email: mila-ts@hotmail.com
 
-🚀 Este repositório é vivo – será incrementado conforme o curso avança e novos conteúdos são apresentados.
+---
+
+> 🚀 Este repositório é vivo – será incrementado conforme o curso avança e novos conteúdos são apresentados.
