@@ -1,3 +1,43 @@
+/* fundo da pagina */
+body {
+  background-color: #f3e5f5;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+/*titulo */
+h1 {
+  text-align: center;
+  color: #4B0082;
+  font-size: 36px;
+}
+
+/*paragrafos */
+p {
+  font-size: 20px;
+  color: #333;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+/*botao */
+button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px;
+  background-color: #4B0082;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #6a1b9a;
+}
+
 /*lista de hobbies */
 ul {
   list-style-position: inside;
@@ -16,9 +56,10 @@ li {
 img {
   border-radius: 12px;
   margin: 20px auto;
+  display:block;
 }
 
-/*tabela de países */
+/*tabela de paises */
 table {
   width: 40%;
   margin: 30px auto;
@@ -41,13 +82,16 @@ a {
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s ease;
+  display: block;
+  text-align: center;
+  margin-top: 30px;
 }
 
 a:hover {
   color: #a259ff;
 }
 
-/*mensagem ao clicar no botão */
+/*mensagem ao clicar no botao */
 #mensagem {
     display: none;
     margin-top: 20px;
